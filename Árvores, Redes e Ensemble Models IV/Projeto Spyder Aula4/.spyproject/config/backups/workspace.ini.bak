@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['C:\\Users\\João Mello\\.spyder-py3\\temp.py', 'aula4_script00_instalações.py', 'aula4_script01_árvore.py', 'aula4_script02_RandomForest.py', 'aula4_script03_LightGBM.py', 'aula4_script04_HAR_lgbm.py', 'aula4_script05_keras_titanic.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
